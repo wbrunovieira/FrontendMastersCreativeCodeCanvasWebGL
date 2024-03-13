@@ -34,3 +34,4 @@ canvas/*.vcproj.user
 *.sln.ide-shm
 *.sln.ide-wal
 *.sw*
+commands.md
